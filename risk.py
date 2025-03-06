@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 #image
-st.image("risk.png", use_column_width=True, caption="Program By: Marcus C. Rodriguez")
+st.image("risk.png", use_container_width=True, caption="Program By: Marcus C. Rodriguez")
 
 st.write("This quiz helps assess your financial risk tolerance. Please select the answer that best describes you.")
 
